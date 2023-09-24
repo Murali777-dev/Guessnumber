@@ -1,0 +1,46 @@
+html{
+    background-color: aliceblue;
+}
+
+.again{
+    color: black;
+    background-color:white;
+}
+
+.between{
+    text-align: right;
+}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.box{
+    text-align: center;
+    width:7rem;
+    height:7rem;
+    color:white;
+    background-color: black;
+    padding: auto;
+    
+}
+.gmk{
+    padding:0.5rem;
+    border-color: white;
+}
+.check{
+    padding: 0.2rem;
+    color: darkgreen;
+    background-color: papayawhip;
+}
+
+.apollo{
+    text-align: center;
+}
+.gvk{
+    text-align: center;
+}
+.gsk{
+    text-align: center;
+}
